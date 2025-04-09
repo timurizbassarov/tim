@@ -1,0 +1,31 @@
+body{
+    background-color: #2B2957;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+}
+img{
+    width:10%
+}
+/*reset style */
+
+
+
+h1{
+    margin-left: 770px;
+    margin-top: 20px;
+    color: white;
+}
+
+ul{
+    display: flex;
+    display: column;
+    
+}
+
+
+
